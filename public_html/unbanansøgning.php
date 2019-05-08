@@ -7,7 +7,7 @@ $valid = false;
 $post = filter_var_array($_POST, FILTER_SANITIZE_STRING);
 
 if(!empty($_POST)) {
-    $secret = "6LdyvIwUAAAAACK85bAfcQ9bH7hZ0v8O6MtMUbzr";
+    $secret = "6LdyvIwUAAAAACK85bAfcQ9bH7hZ0v8O6MtMsdbzr";
 // empty response
     $response = null;
 
