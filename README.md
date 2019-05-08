@@ -9,7 +9,6 @@ Tidligere udviklere på projektet:
 [Apisathan](https://github.com/Apisathan),
 [Hermansen03](https://github.com/Hermansen03)
 
-Credit til Apisathat
 ----------------------------------------------
 
 
@@ -20,5 +19,5 @@ Former developers:
 [Apisathan](https://github.com/Apisathan),
 [Hermansen03](https://github.com/Hermansen03)
 
-Credit to Apisathan
+Credits to Apisathan
 ----------------------------------------------
